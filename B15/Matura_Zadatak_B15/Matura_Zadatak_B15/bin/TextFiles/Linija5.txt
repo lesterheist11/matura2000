@@ -1,9 +1,0 @@
-SMER:Novi Sad - Beograd
-07:00
-09:35
-11:20
-SMER:Beograd - Novi Sad
-07:15
-08:40
-10:50
-13:30
